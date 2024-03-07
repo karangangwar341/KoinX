@@ -1,7 +1,7 @@
 import React from "react";
 import image1 from "../images/image2.png";
 import image2 from "../images/image3.png";
-import { Button } from "bootstrap";
+
 const AboutBitcoin = () => {
   return (
     <div className="about-bitcoin mt-5 bg-white rounded-md p-4">
